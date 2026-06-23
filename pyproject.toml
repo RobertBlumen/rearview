@@ -1,0 +1,22 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "rearview"
+version = "0.0.0"
+description = "Placeholder — document management for infrastructure engineers. Under active development; not yet functional."
+readme = "README.md"
+requires-python = ">=3.13"
+authors = [{ name = "Robert Blumen", email = "robert@robertblumen.com" }]
+license = "MIT"
+classifiers = [
+    "Development Status :: 1 - Planning",
+    "Programming Language :: Python :: 3",
+]
+
+[dependency-groups]
+dev = [
+    "build",
+    "twine",
+]
