@@ -2,7 +2,7 @@
 
 Document management for infrastructure engineers.
 
-**Status: placeholder.
+**Status: placeholder**
 
 ** Under active development, not yet functional.
 Reserving the package name; real release coming.
